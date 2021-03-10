@@ -21,9 +21,7 @@ E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\scopedcss\bundle\Portfolio
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.TagHelpers.input.cache
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.TagHelpers.output.cache
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorCoreGenerate.cache
-E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
