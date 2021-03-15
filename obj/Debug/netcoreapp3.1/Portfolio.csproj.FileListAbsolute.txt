@@ -8,7 +8,6 @@ E:\Personal Website\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.dll
 E:\Personal Website\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.pdb
 E:\Personal Website\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.Views.dll
 E:\Personal Website\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.Views.pdb
-E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csprojAssemblyReference.cache
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.AssemblyInfoInputs.cache
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.AssemblyInfo.cs
 E:\Personal Website\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csproj.CoreCompileInputs.cache
